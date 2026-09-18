@@ -1,0 +1,17 @@
+Retail Category Intelligence: Insight Summary
+
+Key Findings
+
+The analysis uses 107,836 retail transactions from January to June 2026 across 5 product categories and 25 products.
+
+Electronics has the biggest decline in revenue. Its revenue fell from ₹4.57 crore in January to ₹2.97 crore in June, a decrease of about 35.0%. Apparel showed the strongest growth, increasing by about 34.1% over the same period, while Grocery remained relatively stable.
+Product performance is different within each category. In Electronics, Headphones and Laptop were the top two products by total revenue, while Smart TV and Tablet were the bottom two. This shows that product level performance should be considered when reviewing the Electronics category.
+Higher discounts are not giving a better revenue result in this dataset. Average revenue per transaction decreased from ₹4,686 at 0% discount to ₹3,632 at 20% discount, which is about a 22.5% drop, while average units sold stayed around 2.6. The analysis also shows that Saturday has the highest average daily revenue and Monday has the lowest.
+
+Category Recommendation
+
+Apparel has the strongest case for increased investment because of its strong growth. Electronics should be reviewed more closely, especially Smart TV and Tablet, and their shelf space and promotional support should be discussed with the supplier.
+
+Limitation
+
+The dataset does not contain supplier level information or margin data. Therefore, a specific supplier cannot be identified and the actual margin impact of discounts cannot be measured from this dataset alone.
